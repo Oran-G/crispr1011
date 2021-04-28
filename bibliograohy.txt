@@ -1,0 +1,31 @@
+
+@article{Listgarten,
+    author =       "Jennifer Listgarten, et. al.",
+    title =        "Prediction of off-target activities for the end-to-end design of CRISPR guide RNAs",
+    journal =      "Nature",
+    year =         "2018"
+}
+
+
+@article{Lin,
+    author =       "Yanni Lin, et. al.",
+    title =        "CRISPR/Cas9 systems have off-target activity with insertions or deletions between target DNA and guide RNA sequences",
+    journal =      "Neucleic Acids",
+    year =         "2014"
+}
+
+@article{Trivedi,
+    author =       "Tara Basu Trivedi, et. al.",
+    title =        "Crispr2vec: Machine Learning Model Predicts Off-Target Cuts of CRISPR systems",],
+    year =         "2010"
+}
+
+
+@article{Rauscher,
+    author =       "Benedikt Rauscher, et. al.",
+    title =        "GenomeCRISPR - a database for high-throughput CRISPR/Cas9 screens",
+    journal =      "Neucleic Acids",
+    year =         "2017"
+}
+
+ 

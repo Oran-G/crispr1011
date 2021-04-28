@@ -1,0 +1,1 @@
+Accuracy of the network on the 10000 test images: 0 %total: 1280 correct: 0loss: 0.04610390216112137
